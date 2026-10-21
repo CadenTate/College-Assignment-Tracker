@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>13</integer>
+	<key>logs</key>
+	<dict>
+		<key>DB2BEA6A-CB0E-4CAA-B3C3-63EF04D34EA3</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DB2BEA6A-CB0E-4CAA-B3C3-63EF04D34EA3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AssignmentTracker project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AssignmentTracker</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project AssignmentTracker with scheme AssignmentTracker</string>
+			<key>timeStartedRecording</key>
+			<real>814288532.51551199</real>
+			<key>timeStoppedRecording</key>
+			<real>814288573.49081397</real>
+			<key>title</key>
+			<string>Building project AssignmentTracker with scheme AssignmentTracker</string>
+			<key>uniqueIdentifier</key>
+			<string>DB2BEA6A-CB0E-4CAA-B3C3-63EF04D34EA3</string>
+		</dict>
+		<key>DDCA00F1-A958-4A25-BF6C-554AF4A7955F</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DDCA00F1-A958-4A25-BF6C-554AF4A7955F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AssignmentTracker project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AssignmentTracker</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project AssignmentTracker with scheme AssignmentTracker</string>
+			<key>timeStartedRecording</key>
+			<real>814208039.34445703</real>
+			<key>timeStoppedRecording</key>
+			<real>814208042.778988</real>
+			<key>title</key>
+			<string>Building project AssignmentTracker with scheme AssignmentTracker</string>
+			<key>uniqueIdentifier</key>
+			<string>DDCA00F1-A958-4A25-BF6C-554AF4A7955F</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

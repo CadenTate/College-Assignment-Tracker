@@ -1,0 +1,8 @@
+Target dependency graph (3 targets)
+Target 'AllIncludingTests' in project 'Aggregate'
+➜ Explicit dependency on target 'PlannerCoreTests-product' in project 'PlannerCore'
+➜ Dependency on target 'PlannerCoreTests-product' in project 'PlannerCore' via transitive dependency through 'PlannerCoreTests-test-runner'
+➜ Explicit dependency on target 'PlannerCore' in project 'PlannerCore'
+Target 'PlannerCoreTests-product' in project 'PlannerCore'
+➜ Explicit dependency on target 'PlannerCore' in project 'PlannerCore'
+Target 'PlannerCore' in project 'PlannerCore' (no dependencies)

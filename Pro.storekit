@@ -1,0 +1,24 @@
+{
+  "identifier" : "A1B2C3D4",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "12.99",
+      "familyShareable" : true,
+      "internalID" : "6740000001",
+      "localizations" : [
+        {
+          "description" : "One-time unlock: calendar planning, extra feeds, per-course settings, learning estimates and the widget.",
+          "displayName" : "Assignments Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.cadentate.assignmenttracker.pro",
+      "referenceName" : "Assignments Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : { "major" : 3, "minor" : 0 }
+}

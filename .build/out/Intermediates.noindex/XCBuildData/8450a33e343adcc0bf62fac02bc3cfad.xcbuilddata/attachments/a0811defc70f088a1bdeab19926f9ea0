@@ -1,0 +1,29 @@
+{
+  "" : {
+    "diagnostics" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCore-t.build/Objects-normal/arm64/PlannerCore-primary.dia",
+    "emit-module-dependencies" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCore-t.build/Objects-normal/arm64/PlannerCore-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCore-t.build/Objects-normal/arm64/PlannerCore-primary-emit-module.dia",
+    "pch" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCore-t.build/Objects-normal/arm64/PlannerCore-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCore-t.build/Objects-normal/arm64/PlannerCore-primary.swiftdeps"
+  },
+  "/Users/cadentate/Desktop/College Assignment Tracker/Sources/PlannerCore/ICS.swift" : {
+    "const-values" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCore-t.build/Objects-normal/arm64/ICS.swiftconstvalues",
+    "dependencies" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCore-t.build/Objects-normal/arm64/ICS.d",
+    "diagnostics" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCore-t.build/Objects-normal/arm64/ICS.dia",
+    "index-unit-output-path" : "/PlannerCore.build/Debug/PlannerCore-t.build/Objects-normal/arm64/ICS.o",
+    "llvm-bc" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCore-t.build/Objects-normal/arm64/ICS.bc",
+    "object" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCore-t.build/Objects-normal/arm64/ICS.o",
+    "swift-dependencies" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCore-t.build/Objects-normal/arm64/ICS.swiftdeps",
+    "swiftmodule" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCore-t.build/Objects-normal/arm64/ICS~partial.swiftmodule"
+  },
+  "/Users/cadentate/Desktop/College Assignment Tracker/Sources/PlannerCore/Planner.swift" : {
+    "const-values" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCore-t.build/Objects-normal/arm64/Planner.swiftconstvalues",
+    "dependencies" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCore-t.build/Objects-normal/arm64/Planner.d",
+    "diagnostics" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCore-t.build/Objects-normal/arm64/Planner.dia",
+    "index-unit-output-path" : "/PlannerCore.build/Debug/PlannerCore-t.build/Objects-normal/arm64/Planner.o",
+    "llvm-bc" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCore-t.build/Objects-normal/arm64/Planner.bc",
+    "object" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCore-t.build/Objects-normal/arm64/Planner.o",
+    "swift-dependencies" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCore-t.build/Objects-normal/arm64/Planner.swiftdeps",
+    "swiftmodule" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCore-t.build/Objects-normal/arm64/Planner~partial.swiftmodule"
+  }
+}

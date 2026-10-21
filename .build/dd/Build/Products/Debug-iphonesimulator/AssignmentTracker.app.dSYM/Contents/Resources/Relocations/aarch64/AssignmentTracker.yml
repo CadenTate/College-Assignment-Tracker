@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/cadentate/Desktop/College Assignment Tracker/.build/dd/Build/Products/Debug-iphonesimulator/AssignmentTracker.app/AssignmentTracker'
+relocations:     []
+...

@@ -1,0 +1,29 @@
+{
+  "" : {
+    "diagnostics" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCoreTests-p.build/Objects-normal/arm64/PlannerCoreTests-primary.dia",
+    "emit-module-dependencies" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCoreTests-p.build/Objects-normal/arm64/PlannerCoreTests-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCoreTests-p.build/Objects-normal/arm64/PlannerCoreTests-primary-emit-module.dia",
+    "pch" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCoreTests-p.build/Objects-normal/arm64/PlannerCoreTests-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCoreTests-p.build/Objects-normal/arm64/PlannerCoreTests-primary.swiftdeps"
+  },
+  "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCoreTests-p.build/DerivedSources/test_entry_point.swift" : {
+    "const-values" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCoreTests-p.build/Objects-normal/arm64/test_entry_point.swiftconstvalues",
+    "dependencies" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCoreTests-p.build/Objects-normal/arm64/test_entry_point.d",
+    "diagnostics" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCoreTests-p.build/Objects-normal/arm64/test_entry_point.dia",
+    "index-unit-output-path" : "/PlannerCore.build/Debug/PlannerCoreTests-p.build/Objects-normal/arm64/test_entry_point.o",
+    "llvm-bc" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCoreTests-p.build/Objects-normal/arm64/test_entry_point.bc",
+    "object" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCoreTests-p.build/Objects-normal/arm64/test_entry_point.o",
+    "swift-dependencies" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCoreTests-p.build/Objects-normal/arm64/test_entry_point.swiftdeps",
+    "swiftmodule" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCoreTests-p.build/Objects-normal/arm64/test_entry_point~partial.swiftmodule"
+  },
+  "/Users/cadentate/Desktop/College Assignment Tracker/Tests/PlannerCoreTests/PlannerCoreTests.swift" : {
+    "const-values" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCoreTests-p.build/Objects-normal/arm64/PlannerCoreTests.swiftconstvalues",
+    "dependencies" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCoreTests-p.build/Objects-normal/arm64/PlannerCoreTests.d",
+    "diagnostics" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCoreTests-p.build/Objects-normal/arm64/PlannerCoreTests.dia",
+    "index-unit-output-path" : "/PlannerCore.build/Debug/PlannerCoreTests-p.build/Objects-normal/arm64/PlannerCoreTests.o",
+    "llvm-bc" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCoreTests-p.build/Objects-normal/arm64/PlannerCoreTests.bc",
+    "object" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCoreTests-p.build/Objects-normal/arm64/PlannerCoreTests.o",
+    "swift-dependencies" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCoreTests-p.build/Objects-normal/arm64/PlannerCoreTests.swiftdeps",
+    "swiftmodule" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/out/Intermediates.noindex/PlannerCore.build/Debug/PlannerCoreTests-p.build/Objects-normal/arm64/PlannerCoreTests~partial.swiftmodule"
+  }
+}

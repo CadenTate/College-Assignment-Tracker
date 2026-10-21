@@ -1,0 +1,19 @@
+{
+  "" : {
+    "diagnostics" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/dd-ios/Build/Intermediates.noindex/AssignmentTracker.build/Debug-iphonesimulator/TodayWidget.build/Objects-normal/arm64/TodayWidget-primary.dia",
+    "emit-module-dependencies" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/dd-ios/Build/Intermediates.noindex/AssignmentTracker.build/Debug-iphonesimulator/TodayWidget.build/Objects-normal/arm64/TodayWidget-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/dd-ios/Build/Intermediates.noindex/AssignmentTracker.build/Debug-iphonesimulator/TodayWidget.build/Objects-normal/arm64/TodayWidget-primary-emit-module.dia",
+    "pch" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/dd-ios/Build/Intermediates.noindex/AssignmentTracker.build/Debug-iphonesimulator/TodayWidget.build/Objects-normal/arm64/TodayWidget-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/dd-ios/Build/Intermediates.noindex/AssignmentTracker.build/Debug-iphonesimulator/TodayWidget.build/Objects-normal/arm64/TodayWidget-primary.swiftdeps"
+  },
+  "/Users/cadentate/Desktop/College Assignment Tracker/Widget/TodayWidget.swift" : {
+    "const-values" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/dd-ios/Build/Intermediates.noindex/AssignmentTracker.build/Debug-iphonesimulator/TodayWidget.build/Objects-normal/arm64/TodayWidget.swiftconstvalues",
+    "dependencies" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/dd-ios/Build/Intermediates.noindex/AssignmentTracker.build/Debug-iphonesimulator/TodayWidget.build/Objects-normal/arm64/TodayWidget.d",
+    "diagnostics" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/dd-ios/Build/Intermediates.noindex/AssignmentTracker.build/Debug-iphonesimulator/TodayWidget.build/Objects-normal/arm64/TodayWidget.dia",
+    "index-unit-output-path" : "/AssignmentTracker.build/Debug-iphonesimulator/TodayWidget.build/Objects-normal/arm64/TodayWidget.o",
+    "llvm-bc" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/dd-ios/Build/Intermediates.noindex/AssignmentTracker.build/Debug-iphonesimulator/TodayWidget.build/Objects-normal/arm64/TodayWidget.bc",
+    "object" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/dd-ios/Build/Intermediates.noindex/AssignmentTracker.build/Debug-iphonesimulator/TodayWidget.build/Objects-normal/arm64/TodayWidget.o",
+    "swift-dependencies" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/dd-ios/Build/Intermediates.noindex/AssignmentTracker.build/Debug-iphonesimulator/TodayWidget.build/Objects-normal/arm64/TodayWidget.swiftdeps",
+    "swiftmodule" : "/Users/cadentate/Desktop/College Assignment Tracker/.build/dd-ios/Build/Intermediates.noindex/AssignmentTracker.build/Debug-iphonesimulator/TodayWidget.build/Objects-normal/arm64/TodayWidget~partial.swiftmodule"
+  }
+}

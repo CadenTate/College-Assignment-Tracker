@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'AssignmentTracker' in project 'AssignmentTracker'
+➜ Explicit dependency on target 'TodayWidget' in project 'AssignmentTracker'
+Target 'TodayWidget' in project 'AssignmentTracker' (no dependencies)

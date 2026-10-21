@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'AssignmentTracker' in project 'AssignmentTracker' (no dependencies)
