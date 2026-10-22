@@ -1,0 +1,16 @@
+# Build output and caches
+.build/
+build/
+DerivedData/
+*.xcarchive
+
+# Personal Xcode and Swift Package Manager state
+xcuserdata/
+.swiftpm/
+*.xcuserstate
+
+# macOS
+.DS_Store
+
+# Local Claude Code state
+.claude/

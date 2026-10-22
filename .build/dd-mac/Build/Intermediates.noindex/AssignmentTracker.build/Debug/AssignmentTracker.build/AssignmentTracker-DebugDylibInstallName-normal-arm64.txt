@@ -1,1 +1,0 @@
-@rpath/AssignmentTracker.debug.dylib

@@ -1,4 +1,0 @@
-module PlannerCore {
-header "PlannerCore-Swift.h"
-export *
-}
